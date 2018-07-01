@@ -1,0 +1,3 @@
+repository options
+1 local first using centre
+2 Remote first (we will use clone)
